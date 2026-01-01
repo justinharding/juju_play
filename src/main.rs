@@ -1,8 +1,8 @@
 /// A "Hello, world!" program.
-/// 
+///
 /// This is the best implementation of this program to ever exist.
-/// an extra line from github
 
+/// The main function runs when our program starts
 fn main() {
     print("Hello, world!");
     print("Goodbye, world!");
